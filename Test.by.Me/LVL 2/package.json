@@ -1,0 +1,25 @@
+{
+  "name": "test.by.me",
+  "version": "1.0.0",
+  "description": "Evaluador JS propio",
+  "main": "checkbymeNivel2.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodata"
+  },
+  "keywords": [
+    "Byme"
+  ],
+  "author": "Victor R. Colussi",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  
+  }
+}
